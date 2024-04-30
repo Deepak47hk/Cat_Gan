@@ -8,6 +8,12 @@ fixing some error and delete unusable code
 pip install rsa
 pip install request
 pip install thrift==0.9.3
+password crack Instagram
+get creck
+password
+python 02
+usher id @vamini_nareti_
 ```
 
-#Edit by Cat_Bot
+#Edit by Cat_Bot 
+creck password
